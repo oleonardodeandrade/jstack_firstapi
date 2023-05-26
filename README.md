@@ -40,10 +40,8 @@ Before starting the API, you need to configure the mock users file.
 
 To start the API server, run the following command:
    ```
-   npm start
+   node .\src\index.js
    ```
-
-Once the server is running, you can make HTTP requests to the API using a REST client (e.g., Postman, cURL) or integrate the API into your application.
 
 The API will be available at `http://localhost:3000`.
 
